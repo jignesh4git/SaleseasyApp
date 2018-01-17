@@ -1,0 +1,8 @@
+{
+  "name": "SaleseasyApp",
+  "app_id": "b361e518",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
